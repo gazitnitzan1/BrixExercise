@@ -1,0 +1,11 @@
+C:\Dev\Brix\Exercise_1\Exercise_1\bin\Debug\netcoreapp2.2\Exercise_1.deps.json
+C:\Dev\Brix\Exercise_1\Exercise_1\bin\Debug\netcoreapp2.2\Exercise_1.runtimeconfig.json
+C:\Dev\Brix\Exercise_1\Exercise_1\bin\Debug\netcoreapp2.2\Exercise_1.runtimeconfig.dev.json
+C:\Dev\Brix\Exercise_1\Exercise_1\bin\Debug\netcoreapp2.2\Exercise_1.dll
+C:\Dev\Brix\Exercise_1\Exercise_1\bin\Debug\netcoreapp2.2\Exercise_1.pdb
+C:\Dev\Brix\Exercise_1\Exercise_1\obj\Debug\netcoreapp2.2\Exercise_1.csprojAssemblyReference.cache
+C:\Dev\Brix\Exercise_1\Exercise_1\obj\Debug\netcoreapp2.2\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Dev\Brix\Exercise_1\Exercise_1\obj\Debug\netcoreapp2.2\Exercise_1.AssemblyInfoInputs.cache
+C:\Dev\Brix\Exercise_1\Exercise_1\obj\Debug\netcoreapp2.2\Exercise_1.AssemblyInfo.cs
+C:\Dev\Brix\Exercise_1\Exercise_1\obj\Debug\netcoreapp2.2\Exercise_1.dll
+C:\Dev\Brix\Exercise_1\Exercise_1\obj\Debug\netcoreapp2.2\Exercise_1.pdb
